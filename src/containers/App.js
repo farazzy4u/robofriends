@@ -48,6 +48,4 @@ class App extends Component { // it has 2 states. robots and searchfield
 
     }
 
-
-
 export default App;
